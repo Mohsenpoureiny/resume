@@ -14,13 +14,13 @@
     <link rel="shortcut icon" type="image/jpg" href="./favicon.ico" />
 
     <noscript>
-    <style type="text/css">
-      [data-aos] {
-        opacity: 1 !important;
-        transform: translate(0) scale(1) !important;
-      }
-    </style>
-  </noscript>
+        <style type="text/css">
+            [data-aos] {
+                opacity: 1 !important;
+                transform: translate(0) scale(1) !important;
+            }
+        </style>
+    </noscript>
 </head>
 
 <body id="top">
@@ -29,10 +29,8 @@
             <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
                 <div class="container">
                     <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Mohsen Poureiny
-              CV</a>
-                        <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span
-                class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span
-                class="navbar-toggler-bar bar3"></span></button>
+                            CV</a>
+                        <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
                     </div>
                     <div class="collapse navbar-collapse justify-content-end" id="navigation">
                         <ul class="navbar-nav">
@@ -59,16 +57,15 @@
                                     <a href="#"><img src="images/picture.jpg" alt="Image" /></a>
                                 </div>
                                 <div class="h2 title">Mohsen Poureiny</div>
-                                <p class="category text-white">Web Developer, Frontend Developer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact Me</a><a class="btn btn-primary" href="https://jobinja.ir/user/MohsenPoureiny"
-                                    target="_blank" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Persian CV</a>
+                                <p class="category text-white">Web Developer, Frontend Developer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Contact Me</a><a class="btn btn-primary" href="https://jobinja.ir/user/MohsenPoureiny" target="_blank" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Persian CV</a>
                             </div>
                         </div>
                         <div class="section">
                             <div class="container">
                                 <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a>
                                     <a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
-                                    <a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip"
-                                        title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
+                                    <a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a><a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -98,14 +95,14 @@
                                         <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
                                         <div class="col-sm-8">18</div>
                                     </div>
-                                    <div class="row mt-3">
+                                    <!-- <div class="row mt-3">
                                         <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
                                         <div class="col-sm-8">mohsenpoureiny@outlook.com</div>
                                     </div>
                                     <div class="row mt-3">
                                         <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
                                         <div class="col-sm-8">+98 990 467 1504</div>
-                                    </div>
+                                    </div> -->
                                     <div class="row mt-3">
                                         <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
                                         <div class="col-sm-8">488, Keshavarzi, Ardebil, Iran</div>
@@ -208,7 +205,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="progress-container progress-primary"><span class="progress-badge">ASP.NET MVC
-                    </span>
+                                        </span>
                                         <div class="progress">
                                             <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
                                         </div>
@@ -577,24 +574,21 @@
                                                         <div class="p pb-3"><strong>Feel free to contact me </strong></div>
                                                         <div class="row mb-3">
                                                             <div class="col">
-                                                                <div class="input-group"><span class="input-group-addon"><i
-                                      class="fa fa-user-circle"></i></span>
+                                                                <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-circle"></i></span>
                                                                     <input class="form-control" type="text" name="name" placeholder="Name" required="required" />
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="row mb-3">
                                                             <div class="col">
-                                                                <div class="input-group"><span class="input-group-addon"><i
-                                      class="fa fa-file-text"></i></span>
+                                                                <div class="input-group"><span class="input-group-addon"><i class="fa fa-file-text"></i></span>
                                                                     <input class="form-control" type="text" name="subject" placeholder="Subject" required="required" />
                                                                 </div>
                                                             </div>
                                                         </div>
                                                         <div class="row mb-3">
                                                             <div class="col">
-                                                                <div class="input-group"><span class="input-group-addon"><i
-                                      class="fa fa-envelope"></i></span>
+                                                                <div class="input-group"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
                                                                     <input class="form-control" type="email" name="_replyto" placeholder="E-mail" required="required" />
                                                                 </div>
                                                             </div>
